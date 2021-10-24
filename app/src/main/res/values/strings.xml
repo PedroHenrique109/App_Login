@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">splash</string>
+    <string name="localiza_usuario_maps">Localiza Usuario Maps</string>
+    <string name="app_login">app_login</string>
+    <string name="apps_login">apps_login</string>
+    <string name="LogintoyourAccount">Login to your Account</string>
+    <string name="username">Username</string>
+    <string name="CreateyourAccount">Create your Account</string>
+</resources>
